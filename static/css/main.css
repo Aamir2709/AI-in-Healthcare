@@ -1,0 +1,32 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.navbar{
+   padding-left: 100px;
+   padding-right: 100px;
+}
+
+.nav-item{
+   padding-left: 20px;
+}
+
+.nav-link{
+  font-size: 25px;
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+.carousel-item {
+  height: 45rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  /* height: 36rem; */
+}
